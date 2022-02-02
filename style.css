@@ -3,4 +3,26 @@
   flex-wrap: wrap;
   width: 400px;
   height: 300px;
+  margin-top:-20px;
 }
+
+body{
+  line-height : 1px;
+}
+
+#accions{
+  margin-top: 40px;
+}
+
+#vida {
+  position: relative;
+  bottom: 55px;
+  left: 310px;
+}
+
+#botonHistorial {
+  position: relative;
+  bottom: 25px;
+  left: 160px;
+}
+
